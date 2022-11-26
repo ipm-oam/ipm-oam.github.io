@@ -32,9 +32,9 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |...                  |Part2: IPM OA members  | Introducing ourselves                             ||
 :--------|:--------|:---------|:---------|
 |...                  |Part3: Elham           | Introducing useful tools in research for students ||
-|08 November (17 Aban)|Mohammad Akhlaghi (CEFCA)|Observational Astronomy and Unix-like Operating Systems||
-|15 November (24 Aban)|Pedram Ashofteh Ardakani (IPM)|Working in Command-Line Interface, Shell, and Bash commands||
-|22 November (01 Azar)|Part1: Amir YarAhmadi (IPM)|Reheating the Universe after Inflation via Resonant Interactions||
+|08 November (17 Aban)|Mohammad Akhlaghi (CEFCA)|[Observational Astronomy and Unix-like Operating Systems](/presentations/2022/Observational_Astronomy_and_Unix-like_Operating_Systems)||
+|15 November (24 Aban)|Pedram Ashofteh Ardakani (IPM)|[Working in Command-Line Interface, Shell, and Bash commands](/presentations/2022/Working_in_Command-Line_Interface)||
+|22 November (01 Azar)|Part1: Amir YarAhmadi (IPM)|[Reheating the Universe after Inflation via Resonant Interactions](/presentations/2022/Reheating_the_Universe_after_Inflation_via_Resonant_Interactions)||
 |:--------|:--------|:---------|:---------|
 |...                  |Part2: IPM OA members|What’s up?||
 |29 November (08 Azar)|Part1: Sina Hooshangi (IPM) & S.Mohammad Hosseinirad|Zotero & Mendeley||
