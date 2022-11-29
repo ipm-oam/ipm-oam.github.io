@@ -9,6 +9,7 @@ show_sidebar: false
 
 ### Working in Command-Line Interface, Shell, and Bash commands
 #### Pedram Ashofteh Ardakani (IPM)
+**15 Nov 2022**
 
 ---
 چرا با وجود پیشرفت بسیار گرافیک دستگاه ها، محیط خط فرمان فراموش نشده؟
