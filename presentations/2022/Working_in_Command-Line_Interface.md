@@ -31,3 +31,8 @@ show_sidebar: false
 - تعریف حلقه ها
 
 کلام آخر: «اصلا به من چه!؟ من که برنامه نویس نیستم!»
+
+**Resources:**
+- [Bash tutorial](https://www.aparat.com/v/LVSik)
+- [OAM talk](https://codeberg.org/pedramardakani/oam-talk)
+- [POSIX power tools: basic operations on the command-line](https://gitlab.com/makhlaghi/smack-talks-iac/-/blob/master/smack-2-shell.md)
