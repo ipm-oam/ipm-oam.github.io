@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IPM-OAM presentation archive
+title: IPM-OAM presentation
 subtitle: 
 #menubar: docs_menu
 show_sidebar: false
