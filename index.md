@@ -42,7 +42,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |...|Part2: Amir YarAhmadi (IPM)|[Reheating the Universe after Inflation via Resonant Interactions](/presentations/2022/Reheating_the_Universe_after_Inflation_via_Resonant_Interactions)||
 |6 Dec (15 Azar)|Part1: IPM OA members|What's up?||
 |:--------|:--------|:---------|:---------|
-|...|Part2: Marzie Faraji (IPM)|TBD||
+|...|Part2: Marzie Faraji (IPM)|[Inflation in Energy-Momentum Squared Gravity in Light of Planck2018](/presentations/2022/12-06_Marzie_Faraji)|Astronomy & Particles Seminar Room|
 |13 Dec (22 Azar)|Part1: TBD|TBD||
 |:--------|:--------|:---------|:---------|
 |...|Part2: Mahdi Abdollahi (IPM)|[Hierarchical Classification of Variable Stars Using Deep Convolutional Neural Networks](/presentations/2022/12-13_Mahdi_Abdollahi)||
