@@ -27,12 +27,12 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 
 | Date | Presenter(s) | Topic(s) | location |
 |:--------|:--------|:---------|:---------|
-|01 Nov (10 Aban)|Part1: Elham Eftekhari|Introducing the format of the OAM|Astronomy & Particles Seminar Room|
+|1 Nov (10 Aban)|Part1: Elham Eftekhari|Introducing the format of the OAM|Astronomy & Particles Seminar Room|
 :--------|:--------|:---------|:---------|
 |...                  |Part2: IPM OA members|Introducing ourselves||
 :--------|:--------|:---------|:---------|
-|...                  |Part3: Elham Eftekhari|[Introducing useful tools in research for students](useful-links)||
-|08 Nov (17 Aban)|Mohammad Akhlaghi (CEFCA)|[Observational Astronomy and Unix-like Operating Systems](/presentations/2022/Observational_Astronomy_and_Unix-like_Operating_Systems)|Astronomy & Particles Seminar Room + Skyroom|
+|...                  |Part3: Elham Eftekhari|[Introducing useful tools in research for students](/presentations/2022/11_01_Elham_Eftekhari)||
+|8 Nov (17 Aban)|Mohammad Akhlaghi (CEFCA)|[Observational Astronomy and Unix-like Operating Systems](/presentations/2022/Observational_Astronomy_and_Unix-like_Operating_Systems)|Astronomy & Particles Seminar Room + Skyroom|
 |15 Nov (24 Aban)|Pedram Ashofteh Ardakani (IPM)|[Working in Command-Line Interface, Shell, and Bash commands](/presentations/2022/Working_in_Command-Line_Interface)|Astronomy & Particles Seminar Room + Skyroom|
 |22 Nov (01 Azar)|Part1: Amir YarAhmadi (IPM)|[Reheating the Universe after Inflation via Resonant Interactions](/presentations/2022/Reheating_the_Universe_after_Inflation_via_Resonant_Interactions)|Astronomy & Particles Seminar Room|
 |:--------|:--------|:---------|:---------|
