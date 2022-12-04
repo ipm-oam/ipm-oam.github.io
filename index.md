@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 subtitle: IPM Observational Astronomy Meetings (OAM)
 layout: page
 #callouts: home_callouts
@@ -11,9 +11,9 @@ hero_image: img/h1.jpg
 
 The OAM are now either in-person or hybrid.
 
-If you would like to attend virtually or in person, please get in touch with the organisers.
+If you would like to attend virtually or in person, please get in touch with the organizers.
 
-**Organisers:**
+**Organizers:**
 
 Elham Eftekhari (elhamea@ipm.ir)
 
