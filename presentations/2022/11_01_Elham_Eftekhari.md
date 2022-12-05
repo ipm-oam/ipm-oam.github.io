@@ -13,10 +13,9 @@ show_sidebar: false
 
 ---
 
-First, I will describe the format of the new series of OAM, then we will quickly round the table, and everyone will introduce herself/himself. For the second half of the session, I will introduce some useful tools in research for students. You are all welcome to introduce your tools and share your tips. 
-
 **Resources:**
 - Reference Manager:
+  - [Zotero](https://www.zotero.org/)
   - [Mendeley](https://mendeley.com/)
 
 - Time Management:
@@ -41,8 +40,9 @@ First, I will describe the format of the new series of OAM, then we will quickly
   - Ali Abdaal 
   - Keep Productive
 
-- A podcast for PhD students: 
+- Podcasts for PhD students: 
   - How to PhD
+  - astro[sound]bites
 
 - A Youtube channel for PhD students:
   - Dr. Lucy Kissick

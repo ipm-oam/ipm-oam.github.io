@@ -1,7 +1,7 @@
 #- name: Useful Links
 #  link: /useful-links/
-- name: Presentations
-  link: /presentations/
+#- name: Presentations
+#  link: /presentations/
 #  dropdown:
 #    - name: 2022
 #      link: /2022/
