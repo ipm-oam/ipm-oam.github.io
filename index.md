@@ -38,7 +38,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |22 Nov (01 Azar)     |Part1: Amir YarAhmadi (IPM)|[Reheating the Universe after Inflation via Resonant Interactions](/presentations/2022/Reheating_the_Universe_after_Inflation_via_Resonant_Interactions)|Astronomy & Particles Seminar Room|
 |...                  |Part2: IPM OA members|What’s up?||
 |:--------------------|:--------|:---------|:---------|
-|29 Nov (08 Azar)     |Part1: Sina Hooshangi (IPM) & S.Mohammad Hosseinirad|Zotero & Mendeley|Astronomy & Particles Seminar Room|
+|29 Nov (08 Azar)     |Part1: Sina Hooshangi (IPM) & S.Mohammad Hosseinirad (IPM)|[Zotero & Mendeley](/presentations/2022/Zotero_Mendeley)|Astronomy & Particles Seminar Room|
 |...                  |Part2: Amir YarAhmadi (IPM)|[Reheating the Universe after Inflation via Resonant Interactions](/presentations/2022/Reheating_the_Universe_after_Inflation_via_Resonant_Interactions)||
 |:--------------------|:--------|:---------|:---------|
 |6 Dec (15 Azar)|CANCELLED|CANCELLED|CANCELLED|
