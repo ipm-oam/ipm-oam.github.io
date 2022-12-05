@@ -33,8 +33,11 @@ show_sidebar: false
 کلام آخر: «اصلا به من چه!؟ من که برنامه نویس نیستم!»
 
 [^1] [Python](https://www.python.org/): a programming language that lets you work quickly and integrate systems more effectively.
+
 [^2] [GNU Bash](https://www.gnu.org/software/bash/): the GNU Project's shell, the _B_ourne _A_gain _SH_ell.
+
 [^3] [GNU awk](https://www.gnu.org/software/gawk/): a special-purpose programming language that makes it possible to handle simple data-reformatting jobs with just a few lines of code.
+
 [^4] [GNU sed](https://www.gnu.org/software/sed/): _s_tream _ed_itor is a non-interactive command-line text editor.
 
 **Resources:**
