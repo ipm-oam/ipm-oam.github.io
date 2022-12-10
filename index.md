@@ -43,7 +43,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |6 Dec (15 Azar)|CANCELLED|CANCELLED|CANCELLED|
 |:--------------------|:--------|:---------|:---------|
-|13 Dec (22 Azar)     |Part1: TBD|TBD|Astronomy & Particles Seminar Room|
+|13 Dec (22 Azar)     |Part1: Golshan Ejlali (IPM) & Elham Eftekhari (IPM)|Obsidian & Evernote|Astronomy & Particles Seminar Room|
 |...                  |Part2: Mahdi Abdollahi (IPM)|[Hierarchical Classification of Variable Stars Using Deep Convolutional Neural Networks](/presentations/2022/12-13_Mahdi_Abdollahi)||
 |:--------------------|:--------|:---------|:---------|
 |20 Dec (29 Azar)     |Part1: TBD|TBD|Astronomy & Particles Seminar Room|
