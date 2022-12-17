@@ -43,10 +43,10 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |6 Dec (15 Azar)|CANCELLED|CANCELLED|CANCELLED|
 |:--------------------|:--------|:---------|:---------|
-|13 Dec (22 Azar)     |Part1: Golshan Ejlali (IPM) & Elham Eftekhari (IPM)|Obsidian & Evernote|Astronomy & Particles Seminar Room|
+|13 Dec (22 Azar)     |Part1: Golshan Ejlali (IPM)|Obsidian|Astronomy & Particles Seminar Room|
 |...                  |Part2: Mahdi Abdollahi (IPM)|[Hierarchical Classification of Variable Stars Using Deep Convolutional Neural Networks](/presentations/2022/12-13_Mahdi_Abdollahi)||
 |:--------------------|:--------|:---------|:---------|
-|20 Dec (29 Azar)     |Part1: TBD|TBD|Astronomy & Particles Seminar Room|
+|20 Dec (29 Azar)     |Part1: Elham Eftekhari (IPM)|Evernote|Astronomy & Particles Seminar Room|
 |...                  |Part2: Farideh Mazoochi (IPM)|[The relation between the radio emission of the core and host galaxy properties in Fanaroff–Riley type II radio galaxies](/presentations/2022/12-20_Farideh_Mazoochi)||
 |:--------------------|:--------|:---------|:---------|
 |3 Jan (13 Dey)       |Part1: IPM OA members|What's up?|Astronomy & Particles Seminar Room|
