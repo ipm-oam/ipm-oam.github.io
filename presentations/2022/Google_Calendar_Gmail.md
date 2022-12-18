@@ -1,5 +1,3 @@
-
-
 ---
 layout: page
 title: IPM-OAM presentation
