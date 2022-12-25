@@ -30,8 +30,9 @@ show_sidebar: false
   - [Evernote](https://evernote.com)
   - [Obsidian](https://obsidian.md)
   - [Notion](https://www.notion.so/)
+  - Stickies app
 
-- Stickies app: (I recommend searching the following terms on the net)
+- I recommend searching the following terms on the net:
   - The Inbox Zero
   - The Second Brain
   - Time Blocking Method 
