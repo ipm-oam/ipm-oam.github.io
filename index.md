@@ -49,7 +49,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |20 Dec (29 Azar)     |Part1: Elham Eftekhari (IPM)|[Evernote](/presentations/2022/Evernote)|Skyroom|
 |...                  |Part2: Farideh Mazoochi (IPM)|[The relation between the radio emission of the core and host galaxy properties in Fanaroff–Riley type II radio galaxies](/presentations/2022/12-20_Farideh_Mazoochi)||
 |:--------------------|:--------|:---------|:---------|
-|3 Jan (13 Dey)       |Part1: Elham Eftekhari (IPM) & Amin Frhang (IPM)|Asana & Todoist|Astronomy & Particles Seminar Room|
+|3 Jan (13 Dey)       |Part1: Elham Eftekhari (IPM) & Amin Farhang (IPM)|Asana & Todoist|Astronomy & Particles Seminar Room|
 |...                  |Part2: Marzie Faraji (IPM)|[Inflation in Energy-Momentum Squared Gravity in Light of Planck2018](/presentations/2023/01_03_Marzie_Faraji)||
 |:--------------------|:--------|:---------|:---------|
 |10 Jan (20 Dey)      |Part1: Tahere Parto (IPM, Alzahra University)|TBD|TBD|
