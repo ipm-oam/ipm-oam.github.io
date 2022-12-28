@@ -52,7 +52,13 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |3 Jan (13 Dey)       |Part1: IPM OA members|What's up?|Astronomy & Particles Seminar Room|
 |...                  |Part2: Marzie Faraji (IPM)|[Inflation in Energy-Momentum Squared Gravity in Light of Planck2018](/presentations/2023/01_03_Marzie_Faraji)||
 |:--------------------|:--------|:---------|:---------|
-|10 Jan (20 Dey)      |Part1: Tahere Parto (IPM, Alzahra University)|TBD|Astronomy & Particles Seminar Room|
+|10 Jan (20 Dey)      |Part1: Tahere Parto (IPM, Alzahra University)|TBD|TBD|
+|...                  |Part2: IPM OA members|What's up?||
+|:--------------------|:--------|:---------|:---------|
+|17 Jan (27 Dey)      |Part1: Pedram Ashofteh Ardakani (IPM)|TBD|TBD|
+|...                  |Part2: IPM OA members|What's up?||
+|:--------------------|:--------|:---------|:---------|
+|24 Jan (04 Dey)      |Part1: Amin Farhang (IPM)|TBD|TBD|
 |...                  |Part2: IPM OA members|What's up?||
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
