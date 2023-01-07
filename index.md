@@ -52,7 +52,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |3 Jan (13 Dey)       |Part1: Elham Eftekhari (IPM) & Amin Farhang (IPM)|Asana & Todoist|Astronomy & Particles Seminar Room|
 |...                  |Part2: Marzie Faraji (IPM)|[Inflation in Energy-Momentum Squared Gravity in Light of Planck2018](/presentations/2023/01_03_Marzie_Faraji)||
 |:--------------------|:--------|:---------|:---------|
-|10 Jan (20 Dey)      |Part1: Tahere Parto (IPM, Alzahra University)|The Star Formation History of Sagittarius Dwarf Irregular Galaxy Derived from Long-period Variable Stars (The Isaac Newton Telescope Monitoring Survey of Local Group Dwarf Galaxies. V.)|Astronomy & Particles Seminar Room + Skyroom|
+|10 Jan (20 Dey)      |Part1: Tahere Parto (IPM, Alzahra University)|[The Star Formation History of Sagittarius Dwarf Irregular Galaxy Derived from Long-period Variable Stars (The Isaac Newton Telescope Monitoring Survey of Local Group Dwarf Galaxies. V.)](/presentations/2023/01_10_Tahere_Parto)|Astronomy & Particles Seminar Room + Skyroom|
 |...                  |Part2: IPM OA members|What's up?||
 |:--------------------|:--------|:---------|:---------|
 |17 Jan (27 Dey)      |Part1: Pedram Ashofteh Ardakani (IPM)|TBD|TBD|
