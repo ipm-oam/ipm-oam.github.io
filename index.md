@@ -55,10 +55,9 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |10 Jan (20 Dey)      |Part1: Tahere Parto (IPM, Alzahra University)|[The Star Formation History of Sagittarius Dwarf Irregular Galaxy Derived from Long-period Variable Stars (The Isaac Newton Telescope Monitoring Survey of Local Group Dwarf Galaxies. V.)](/presentations/2023/01_10_Tahere_Parto)|Astronomy & Particles Seminar Room + Skyroom|
 |...                  |Part2: IPM OA members|What's up?||
 |:--------------------|:--------|:---------|:---------|
-|17 Jan (27 Dey)      |Part1: Pedram Ashofteh Ardakani (IPM)|TBD|TBD|
-|...                  |Part2: IPM OA members|What's up?||
+|17 Jan (27 Dey)      |IPM OA members|round-the-table session|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|24 Jan (04 Dey)      |Part1: Amin Farhang (IPM)|TBD|TBD|
+|24 Jan (04 Bahman)      |Part1: Amin Farhang (IPM)|TBD|TBD|
 |...                  |Part2: IPM OA members|What's up?||
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
