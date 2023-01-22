@@ -5,6 +5,10 @@
 #  dropdown:
 #    - name: 2022
 #      link: /2022/
+- name: Archive
+  dropdown:
+    - name: 2022
+      link: /archive/2022/
 #- name: Example Pages
 #  link: /#
 #  dropdown:
