@@ -35,7 +35,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |17 Jan (27 Dey)      |IPM OA members|round-the-table session|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|24 Jan (04 Bahman)      |Part1: Amin Farhang (IPM)|TBD|TBD|
+|24 Jan (04 Bahman)      |Part1: Amin Farhang (IPM)|a review talk|Astronomy & Particles Seminar Room|
 |...                  |Part2: IPM OA members|What's up?||
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
