@@ -38,4 +38,6 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |24 Jan (04 Bahman)      |Part1: Amin Farhang (IPM)|a review talk|Astronomy & Particles Seminar Room|
 |...                  |Part2: IPM OA members|What's up?||
 |:--------------------|:--------|:---------|:---------|
+|31 Jan (11 Bahman)      |Faezeh AkhlaghiManesh (Shiraz University & IPM) & HamidReza Mahani (IPM) & MohammadReza NasirZadeh (IPM)|Getting to Know Telescopes and Observatories|Astronomy & Particles Seminar Room|
+|:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
