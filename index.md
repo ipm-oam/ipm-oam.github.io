@@ -40,7 +40,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |31 Jan (11 Bahman)      |Faezeh AkhlaghiManesh (Shiraz University & IPM) & HamidReza Mahani (IPM) & MohammadReza NasirZadeh (IPM)|[Getting to Know Telescopes and Observatories](/presentations/2023/01_31_Telescopes)|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|7 Feb (18 Bahman)      |Sepideh Eskandarlou (CEFCA)|LaTeX for beginners|Astronomy & Particles Seminar Room + Skyroom|
+|7 Feb (18 Bahman)      |Sepideh Eskandarlou (CEFCA)|[LaTeX to build professional documents](/presentations/2023/02_07_Sepideh_Eskandarlou)|Astronomy & Particles Seminar Room + Skyroom|
 |:--------------------|:--------|:---------|:---------|
 |14 Feb (25 Bahman)      |TBD|TBD|TBD|
 |:--------------------|:--------|:---------|:---------|
