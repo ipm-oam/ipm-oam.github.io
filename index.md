@@ -40,12 +40,16 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |31 Jan (11 Bahman)      |Faezeh AkhlaghiManesh (Shiraz University & IPM) & HamidReza Mahani (IPM) & MohammadReza NasirZadeh (IPM)|[Getting to Know Telescopes and Observatories](/presentations/2023/01_31_Telescopes)|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|7 Feb (18 Bahman)      |Sepideh Eskandarlou (CEFCA)|[LaTeX to build professional documents](/presentations/2023/02_07_Sepideh_Eskandarlou)|Astronomy & Particles Seminar Room + Skyroom|
+|7 Feb (18 Bahman)      |OA members|round-the-table session|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|14 Feb (25 Bahman)      |TBD|TBD|TBD|
+|14 Feb (25 Bahman)      |Sepideh Eskandarlou (CEFCA)|[LaTeX to build professional documents](/presentations/2023/02_07_Sepideh_Eskandarlou)|TBD|
 |:--------------------|:--------|:---------|:---------|
-|22 Feb (3 Esfand)      |Zohreh Ghaffari (IAC)|TBD|Astronomy & Particles Seminar Room + Skyroom|
+|22 Feb (3 Esfand)      |Hedieh Abdollahi (Alzahra University)|TBD|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
 |1 Mar (10 Esfand)      |Hamid Hassani (University of Alberta)|PHANGS-JWST survey|Astronomy & Particles Seminar Room + Skyroom|
+|:--------------------|:--------|:---------|:---------|
+|8 Mar (17 Esfand)      |Holidy|Holidy|Holidy|
+|:--------------------|:--------|:---------|:---------|
+|15 Mar (24 Esfand)      |Zohreh Ghaffari (IAC)|TBD|Astronomy & Particles Seminar Room + Skyroom|
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
