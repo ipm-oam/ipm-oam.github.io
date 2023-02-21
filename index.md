@@ -42,9 +42,9 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |7 Feb (18 Bahman)      |OA members|round-the-table session|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|14 Feb (25 Bahman)      |Sepideh Eskandarlou (CEFCA)|[LaTeX to build professional documents](/presentations/2023/02_07_Sepideh_Eskandarlou)|TBD|
+|14 Feb (25 Bahman)      |Sepideh Eskandarlou (CEFCA)|[LaTeX to build professional documents](/presentations/2023/02_07_Sepideh_Eskandarlou)|Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|22 Feb (3 Esfand)      |Hedieh Abdollahi (Alzahra University)|TBD|Astronomy & Particles Seminar Room|
+|22 Feb (3 Esfand)      |Hedieh Abdollahi (Alzahra University)|[The Isaac Newton telescope monitoring survey of local group dwarf galaxies VI: The SFH and dust production in Andromeda IX](/presentations/2023/02_22_Hedieh_Abdollahi)|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
 |1 Mar (10 Esfand)      |Hamid Hassani (University of Alberta)|PHANGS-JWST survey|Astronomy & Particles Seminar Room + Skyroom|
 |:--------------------|:--------|:---------|:---------|
