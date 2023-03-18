@@ -31,4 +31,4 @@ session is to introduce LaTeX for those who are just starting to use it.
 ---
 
 **Resources:**
-
+- [Video in Aparat](https://www.aparat.com/v/jkmzw)
