@@ -50,6 +50,6 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |8 Mar (17 Esfand)      |Holidy|Holidy|Holidy|
 |:--------------------|:--------|:---------|:---------|
-|15 Mar (24 Esfand)      |Zohreh Ghaffari (IAC)|TBD|Astronomy & Particles Seminar Room + Skyroom|
+|15 Mar (24 Esfand)      |Zohreh Ghaffari (IAC)|[SHARKS II. Optimising a near−infrared imaging survey for low surface brightness science](/presentations/2023/03_15_Zohreh_Ghaffari)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
