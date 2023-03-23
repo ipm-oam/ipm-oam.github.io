@@ -9,6 +9,8 @@
   dropdown:
     - name: 2022
       link: /archive/2022/
+    - name: 2023
+      link: /archive/2023/
 #- name: Example Pages
 #  link: /#
 #  dropdown:
