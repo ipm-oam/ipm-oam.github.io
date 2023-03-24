@@ -29,6 +29,8 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |5 Apr (16 Farvardin)       | Hamid Hassani (University of Alberta) |[PHANGS-JWST First Results ApJ Letters Focus Issue](/presentations/2023/04_05_2023_Hamid_Hassani)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
+|12 Apr (23 Farvardin)      |Holiday|Holiday|Holiday|
+|:--------------------|:--------|:---------|:---------|
 |19 Apr (30 Farvardin)      |OA Members|Journal Club|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
 |26 Apr (6 Ordibehesht)      |Arash danesh (IPM) & Mohammad Javad Shahhoseini (IPM)|Getting to Know Telescopes and Observatories|Astronomy & Particles Seminar Room|
