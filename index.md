@@ -27,7 +27,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 
 | Date                | Presenter(s) | Topic(s) | location |
 |:--------------------|:--------|:---------|:---------|
-|5 Apr (16 Farvardin)       | Hamid Hassani (University of Alberta) |[PHANGS-JWST First Results ApJ Letters Focus Issue](/presentations/2023/04_05_Hamid_Hassani)|Astronomy & Particles Seminar Room + Google Meet|
+|5 Apr (16 Farvardin)       | Hamid Hassani (University of Alberta) |[PHANGS-JWST First Results ApJ Letters Focus Issue](/presentations/2023/04_05_2023_Hamid_Hassani)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |19 Apr (30 Farvardin)      |OA Members|Journal Club|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
