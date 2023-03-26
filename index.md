@@ -35,4 +35,14 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |26 Apr (6 Ordibehesht)      |Arash danesh (IPM) & Mohammad Javad Shahhoseini (IPM)|Getting to Know Telescopes and Observatories|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
+|3 May (13 Ordibehesht)      |TBD|TBD|TBD|
+|:--------------------|:--------|:---------|:---------|
+|10 May (20 Ordibehesht)      |TBD|TBD|TBD|
+|:--------------------|:--------|:---------|:---------|
+|17 May (27 Ordibehesht)      |TBD|TBD|TBD|
+|:--------------------|:--------|:---------|:---------|
+|24 May (3 Khordad)      |TBD|TBD|TBD|
+|:--------------------|:--------|:---------|:---------|
+|31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|Scientific Writing|Astronomy & Particles Seminar Room + Google Meet|
+|:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
