@@ -39,7 +39,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |10 May (20 Ordibehesht) @ 11:30   |Azadeh Fattahi (Durham University)|Observing EAGLE galaxies with JWST|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|17 May (27 Ordibehesht)      |TBD|TBD|TBD|
+|17 May (27 Ordibehesht)      |Elham Saremi (IAC)| Gnuastro|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |24 May (3 Khordad)      |TBD|TBD|TBD|
 |:--------------------|:--------|:---------|:---------|
