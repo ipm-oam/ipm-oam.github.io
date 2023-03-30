@@ -41,7 +41,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |17 May (27 Ordibehesht)      |Elham Saremi (IAC)| Gnuastro|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|24 May (3 Khordad)      |TBD|TBD|TBD|
+|24 May (3 Khordad)      |Pedram Ashofteh Ardakani (IPM)|Scripting|TBD|
 |:--------------------|:--------|:---------|:---------|
 |31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|Scientific Writing|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
