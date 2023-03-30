@@ -31,7 +31,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |12 Apr (23 Farvardin)      |Holiday|Holiday|Holiday|
 |:--------------------|:--------|:---------|:---------|
-|19 Apr (30 Farvardin)      |OA Members|Journal Club|Astronomy & Particles Seminar Room|
+|19 Apr (30 Farvardin)      |IPM OA Members|Journal Club|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
 |26 Apr (6 Ordibehesht)      |Arash danesh (IPM) & Mohammad Javad Shahhoseini (IPM)|Getting to Know Telescopes and Observatories|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
