@@ -35,7 +35,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |26 Apr (6 Ordibehesht)      |Arash danesh (IPM) & Mohammad Javad Shahhoseini (IPM)|Getting to Know Telescopes and Observatories|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|3 May (13 Ordibehesht)      |TBD|TBD|TBD|
+|3 May (13 Ordibehesht)      |Marziye Jafari (Caltech)|TBD|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |10 May (20 Ordibehesht) @ 11:30   |Azadeh Fattahi (Durham University)|Observing EAGLE galaxies with JWST|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
@@ -44,5 +44,11 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |24 May (3 Khordad)      |Pedram Ashofteh Ardakani (IPM)|Scripting|TBD|
 |:--------------------|:--------|:---------|:---------|
 |31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|Scientific Writing|Astronomy & Particles Seminar Room + Google Meet|
+|:--------------------|:--------|:---------|:---------|
+|7 June (17 Khordad)      |TBD|TBD|TBD|
+|:--------------------|:--------|:---------|:---------|
+|14 May (24 Khordad)      |TBD|TBD|TBD|
+|:--------------------|:--------|:---------|:---------|
+|21 May (31 Khordad)      |TBD|TBD|TBD|
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
