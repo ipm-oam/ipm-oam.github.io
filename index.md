@@ -27,6 +27,10 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 
 | Date                | Presenter(s) | Topic(s) | location |
 |:--------------------|:--------|:---------|:---------|
+|22 Mar (2 Farvardin)      |Holiday|Holiday|Holiday|
+|:--------------------|:--------|:---------|:---------|
+|29 Mar (9 Farvardin)      |Holiday|Holiday|Holiday|
+|:--------------------|:--------|:---------|:---------|
 |5 Apr (16 Farvardin)       | Hamid Hassani (University of Alberta) |[PHANGS-JWST First Results ApJ Letters Focus Issue](/presentations/2023/04_05_2023_Hamid_Hassani)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |12 Apr (23 Farvardin)      |Holiday|Holiday|Holiday|
@@ -45,10 +49,10 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|Scientific Writing|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|7 June (17 Khordad)      |TBD|TBD|TBD|
+|7 Jun (17 Khordad)      |Sepideh Eskandarlou (CEFCA)|LaTex to build professional documents 2|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|14 May (24 Khordad)      |TBD|TBD|TBD|
+|14 Jun (24 Khordad)      |TBD|TBD|TBD|
 |:--------------------|:--------|:---------|:---------|
-|21 May (31 Khordad)      |TBD|TBD|TBD|
+|21 Jun (31 Khordad)      |TBD|TBD|TBD|
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
