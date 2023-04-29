@@ -35,11 +35,11 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |12 Apr (23 Farvardin)      |Holiday|Holiday|Holiday|
 |:--------------------|:--------|:---------|:---------|
-|19 Apr (30 Farvardin)      |IPM OA Members|Journal Club|Astronomy & Particles Seminar Room|
+|19 Apr (30 Farvardin)      |IPM OA Members|Journal Club|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |26 Apr (6 Ordibehesht)      |Arash danesh (IPM) & Mohammad Javad Shahhoseini (IPM)|Getting to Know Telescopes and Observatories|Astronomy & Particles Seminar Room|
 |:--------------------|:--------|:---------|:---------|
-|3 May (13 Ordibehesht)      |Marziye Jafari (Caltech)|TBD|Astronomy & Particles Seminar Room + Google Meet|
+|3 May (13 Ordibehesht)      |IPM OA Members|Journal Club|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |10 May (20 Ordibehesht) @ 11:30   |Azadeh Fattahi (Durham University)|Observing EAGLE galaxies with JWST|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
