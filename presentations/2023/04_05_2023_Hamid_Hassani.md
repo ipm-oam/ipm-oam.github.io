@@ -22,3 +22,7 @@ galactic context, with results ranging from embedded star clusters to feedback-d
 program promises to accelerate discovery in these fields.
 
 ---
+
+**Resources:**
+- [Video in Aparat](https://www.aparat.com/v/3XiZb)
+
