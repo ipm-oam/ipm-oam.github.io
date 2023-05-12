@@ -43,9 +43,9 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |10 May (20 Ordibehesht) @ 11:30   |Azadeh Fattahi (Durham University)|Observing EAGLE galaxies with JWST|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|17 May (27 Ordibehesht)      |Elham Saremi (IAC)| Gnuastro|Astronomy & Particles Seminar Room + Google Meet|
+|17 May (27 Ordibehesht)      |ّّّ30th IPM Physics Spring Conference| 30th IPM Physics Spring Conference|30th IPM Physics Spring Conference|
 |:--------------------|:--------|:---------|:---------|
-|24 May (3 Khordad)      |Pedram Ashofteh Ardakani (IPM)|Scripting|TBD|
+|24 May (3 Khordad)      | Elham Saremi (IAC)| Gnuastro|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|Scientific Writing|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
