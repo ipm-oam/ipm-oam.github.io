@@ -45,13 +45,13 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |17 May (27 Ordibehesht)      |30th IPM Physics Spring Conference| 30th IPM Physics Spring Conference|30th IPM Physics Spring Conference|
 |:--------------------|:--------|:---------|:---------|
-|24 May (3 Khordad)      | Elham Saremi (IAC)| Gnuastro|Astronomy & Particles Seminar Room + Google Meet|
+|24 May (3 Khordad)      | Elham Saremi (IAC)| Astronomical data analysis with GNU Astronomy Utilities (Gnuastro)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|Scientific Writing|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |7 Jun (17 Khordad)      |Sepideh Eskandarlou (CEFCA)|LaTex to build professional documents 2|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|14 Jun (24 Khordad)      |TBD|TBD|TBD|
+|14 Jun (24 Khordad)      |Pedram Ashofteh Ardakani (IPM)|Scripting|TBD|
 |:--------------------|:--------|:---------|:---------|
 |21 Jun (31 Khordad)      |TBD|TBD|TBD|
 |:--------------------|:--------|:---------|:---------|
