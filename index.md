@@ -47,7 +47,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |24 May (3 Khordad)      | Elham Saremi (IAC)| [Astronomical data analysis with GNU Astronomy Utilities (Gnuastro)](/presentations/2023/05_24_Elham_Saremi)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|Scientific Writing|Astronomy & Particles Seminar Room + Google Meet|
+|31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|[Scientific Writing fro Astronomers](/presentations/2023/05_31_Nushkia_Chamba)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |7 Jun (17 Khordad)      |Sepideh Eskandarlou (CEFCA)|LaTex to build professional documents 2|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
