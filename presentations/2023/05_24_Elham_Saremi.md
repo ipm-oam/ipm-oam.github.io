@@ -23,6 +23,3 @@ Also, you will need TOPCAT and DS9 programs.
 
 ---
 
-**Resources:**
-- [Video in Aparat](https://www.aparat.com/v/wnI0y)
-
