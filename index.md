@@ -55,6 +55,6 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |21 Jun (31 Khordad)      |TBD|TBD|TBD|
 |:--------------------|:--------|:---------|:---------|
-|28 Jun (8 Tir)      |Adriana de Lorenzo-Cáceres Rodríguez (IAC)|TBD|Astronomy & Particles Seminar Room + Google Meet|
+|28 Jun (8 Tir)      |Adriana de Lorenzo-Cáceres Rodríguez (IAC)|Preparing Scientific Talks|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
