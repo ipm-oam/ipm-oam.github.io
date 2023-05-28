@@ -49,11 +49,11 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |31 May (10 Khordad)      |Nushkia Chamba (Stockholm University/Oskar Klein Centre)|[Scientific Writing for Astronomers](/presentations/2023/05_31_Nushkia_Chamba)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|7 Jun (17 Khordad)      |Sepideh Eskandarlou (CEFCA)|LaTex to build professional documents 2|Astronomy & Particles Seminar Room + Google Meet|
+|7 Jun (17 Khordad)      |Sepideh Eskandarlou (CEFCA)|LaTex to build professional documents 2|Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|14 Jun (24 Khordad)      |Pedram Ashofteh Ardakani (IPM)|Scripting|TBD|
+|14 Jun (24 Khordad)      |25th Meeting on research in Astronomy|25th Meeting on research in Astronomy|25th Meeting on research in Astronomy|
 |:--------------------|:--------|:---------|:---------|
-|21 Jun (31 Khordad)      |TBD|TBD|TBD|
+|21 Jun (31 Khordad)      |Pedram Ashofteh Ardakani (IPM)|Scripting|Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |28 Jun (8 Tir)      |Adriana de Lorenzo-Cáceres Rodríguez (IAC)|Preparing Scientific Talks|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
