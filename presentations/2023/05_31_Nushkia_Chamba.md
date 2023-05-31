@@ -8,7 +8,7 @@ show_sidebar: false
 ---
 
 ### Scientific Writing for Astronomers
-#### Nushkia Chamba (Instituto de Astrofísica de Canarias)
+#### Nushkia Chamba (Stockholm University/Oskar Klein Centre)
 **31 May 2023**
 
 ---
