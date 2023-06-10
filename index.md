@@ -51,7 +51,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |7 Jun (17 Khordad)      |Cancelled|Cancelled|Cancelled|
 |:--------------------|:--------|:---------|:---------|
-|14 Jun (24 Khordad)      |Pedram Ashofteh Ardakani (IPM)|Scripting|Google Meet|
+|14 Jun (24 Khordad)      |Pedram Ashofteh Ardakani (IPM)|[Scripting](/presentations/2023/06_14_Pedram_Ashofteh_Ardakani)|Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |21 Jun (31 Khordad)      |Sepideh Eskandarlou (CEFCA)|LaTex to build professional documents 2|Google Meet|
 |:--------------------|:--------|:---------|:---------|
