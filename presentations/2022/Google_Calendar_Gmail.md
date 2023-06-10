@@ -16,4 +16,4 @@ show_sidebar: false
 
 
 **Resources:**
-- [Video in aparat](https://www.aparat.com/v/F08c6)
+- [Video on Aparat](https://www.aparat.com/v/F08c6)
