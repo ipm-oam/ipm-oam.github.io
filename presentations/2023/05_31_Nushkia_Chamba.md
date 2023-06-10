@@ -25,4 +25,4 @@ All authors, both first time writers and more experienced, are warmly welcome!
 
 **Resources:**
 - [Slides](https://drive.google.com/file/d/1BVsT9OrISl-Wr9mGDILb_ak9lOHl4p_R/view?usp=sharing)
-- [Video in Aparat](https://www.aparat.com/v/wA9c6)
+- [Video on Aparat](https://www.aparat.com/v/wA9c6)
