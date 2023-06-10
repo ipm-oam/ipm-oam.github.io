@@ -20,4 +20,4 @@ Our paper has been recently published and is available at [https://iopscience.io
 ---
 
 **Resources:**
-- [Video in Aparat](https://www.aparat.com/v/cKbtW)
+- [Video on Aparat](https://www.aparat.com/v/cKbtW)
