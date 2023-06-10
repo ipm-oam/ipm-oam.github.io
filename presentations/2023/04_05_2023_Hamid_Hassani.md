@@ -24,5 +24,5 @@ program promises to accelerate discovery in these fields.
 ---
 
 **Resources:**
-- [Video in Aparat](https://www.aparat.com/v/3XiZb)
+- [Video on Aparat](https://www.aparat.com/v/3XiZb)
 
