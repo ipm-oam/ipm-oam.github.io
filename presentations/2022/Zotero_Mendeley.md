@@ -14,6 +14,6 @@ show_sidebar: false
 ---
 
 **Resources:**
-- [A vey short introduction to Zotero video in Aparat](https://www.aparat.com/v/z9AHO)
-- [A vey short introduction to Mendeley video in Aparat](https://www.aparat.com/v/sB9wk)
+- [A vey short introduction to Zotero video on Aparat](https://www.aparat.com/v/z9AHO)
+- [A vey short introduction to Mendeley video on Aparat](https://www.aparat.com/v/sB9wk)
 
