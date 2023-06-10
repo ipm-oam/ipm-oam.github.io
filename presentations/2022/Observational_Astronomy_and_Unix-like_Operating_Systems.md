@@ -19,5 +19,5 @@ show_sidebar: false
 - [posix-family](https://akhlaghi.org/pdf/posix-family.pdf)
 - [Gnu Astronomy utilities](https://www.gnu.org/software/gnuastro/)
 - [Gnuastro manual](https://akhlaghi.org/gnuastro.pdf)
-- [Video in aparat](https://aparat.com/v/WVTM8)
+- [Video on Aparat](https://aparat.com/v/WVTM8)
 
