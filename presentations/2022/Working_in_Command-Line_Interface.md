@@ -38,6 +38,6 @@ show_sidebar: false
 [^4]: [GNU sed](https://www.gnu.org/software/sed/): _s_tream _ed_itor is a non-interactive command-line text editor.
 
 **Resources:**
-- [Bash tutorial video in Aparat](https://www.aparat.com/v/LVSik)
+- [Bash tutorial video on Aparat](https://www.aparat.com/v/LVSik)
 - [Git repository on codeberg](https://codeberg.org/pedramardakani/oam-talk)
 - [POSIX power tools: basic operations on the command-line](https://gitlab.com/makhlaghi/smack-talks-iac/-/blob/master/smack-2-shell.md)
