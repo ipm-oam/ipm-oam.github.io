@@ -31,3 +31,9 @@ uses Gnuastro (already presented in the IPM OAM, see [here](https://ipm-oam.gith
 for the simple job of selecting a bright and red galaxy from the ABYSS HUDF WFC3/IR project. 
 
 ---
+
+
+**Resources:**
+- [Lecture Notes](https://github.com/pedramardakani/oam-talk/tree/main/bash-scripting)
+- [Video on Aparat](https://www.aparat.com/v/OExeX)
+
