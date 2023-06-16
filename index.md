@@ -53,7 +53,7 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |14 Jun (24 Khordad)      |Pedram Ashofteh Ardakani (IPM)|[Scripting](/presentations/2023/06_14_Pedram_Ashofteh_Ardakani)|Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|21 Jun (31 Khordad)      |Sepideh Eskandarlou (CEFCA)|LaTex to build professional documents 2|Google Meet|
+|21 Jun (31 Khordad)      |Sepideh Eskandarlou (CEFCA)|[LaTex to build professional documents 2](/presentations/2023/06_21_Sepideh_Eskandarlou)|Google Meet|
 |:--------------------|:--------|:---------|:---------|
 |28 Jun (8 Tir)      |Adriana de Lorenzo-Cáceres Rodríguez (IAC)|Preparing Scientific Talks|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
