@@ -7,7 +7,7 @@ show_sidebar: false
 #toc: true
 ---
 
-### Preparing Scientific Talks
+### How to be expressive. Preparing and delivering specialised scientific talks.
 #### Adriana de Lorenzo-Cáceres Rodríguez (Instituto de Astrofísica de Canarias)
 **28 June 2023**
 
