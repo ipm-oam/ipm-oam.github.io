@@ -55,6 +55,6 @@ S.Mohammad Hosseinirad (m.rad@ipm.ir)
 |:--------------------|:--------|:---------|:---------|
 |21 Jun (31 Khordad)      |Sepideh Eskandarlou (CEFCA)|[LaTex to build professional documents 2](/presentations/2023/06_21_Sepideh_Eskandarlou)|Google Meet|
 |:--------------------|:--------|:---------|:---------|
-|28 Jun (8 Tir)      |Adriana de Lorenzo-Cáceres Rodríguez (IAC)|[Preparing Scientific Talks](/presentations/2023/06_28_Adriana)|Astronomy & Particles Seminar Room + Google Meet|
+|28 Jun (8 Tir)      |Adriana de Lorenzo-Cáceres Rodríguez (IAC)|[How to be expressive. Preparing and delivering specialised scientific talks.](/presentations/2023/06_28_Adriana)|Astronomy & Particles Seminar Room + Google Meet|
 |:--------------------|:--------|:---------|:---------|
 {: rules="groups"}
