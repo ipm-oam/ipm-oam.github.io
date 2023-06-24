@@ -29,3 +29,7 @@ like Git to keep track of your changes and updates. The aim of this
 session is to introduce LaTeX for those who are just starting to use it.
 
 ---
+
+**Resources:**
+- [Lecture Notes](https://gitlab.com/makhlaghi/smack-talks-iac/-/blob/master/smack-17-latex-b.md)
+- [Video on Aparat](https://www.aparat.com/v/W9cKO)
