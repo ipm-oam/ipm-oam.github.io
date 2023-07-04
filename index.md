@@ -15,9 +15,9 @@ If you would like to attend virtually or in person, please get in touch with the
 
 **Organizers:**
 
-Elham Eftekhari (elhamea@ipm.ir)
+Elham Eftekhari (elhamea@ipm.ir), September 2022 - June 2023
 
-S.Mohammad Hosseinirad (m.rad@ipm.ir)
+S.Mohammad Hosseinirad (m.rad@ipm.ir), September 2022 - June 2023
 
 **List of Talks:**
 
