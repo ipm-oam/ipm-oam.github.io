@@ -21,3 +21,6 @@ try to put into words common mistakes the majority of researchers make in scient
 this simple (but extremely hard) exercise helps us realise about them when preparing or delivering our scientific talks.
 
 ---
+
+**Resources:**
+- [Slides](https://drive.google.com/file/d/13hc21MyfQfUAAUA-z9EQlUvCw0p_s_dB/view?usp=sharing)
